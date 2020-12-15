@@ -1,6 +1,6 @@
 # VALA-SCP
 
-A conveniece library for file transfers via SCP for vala applications
+A convenience library for file transfers via SCP for vala applications
 
 ## Setup
 Clone github repo into the main project folder
